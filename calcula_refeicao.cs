@@ -81,5 +81,3 @@ while (sair != "0" );{
   Environment.Exit(0);
 
 }
-
-    
