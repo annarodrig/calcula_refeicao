@@ -1,0 +1,5 @@
+C:\Users\annab\PC2\calcula_refeicao\bin\Release\net6.0\publish\desafio.exe
+C:\Users\annab\PC2\calcula_refeicao\bin\Release\net6.0\publish\desafio.dll
+C:\Users\annab\PC2\calcula_refeicao\bin\Release\net6.0\publish\desafio.deps.json
+C:\Users\annab\PC2\calcula_refeicao\bin\Release\net6.0\publish\desafio.runtimeconfig.json
+C:\Users\annab\PC2\calcula_refeicao\bin\Release\net6.0\publish\desafio.pdb

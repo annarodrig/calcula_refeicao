@@ -1,0 +1,15 @@
+C:\Users\annab\PC2\calcula_refeicao\bin\Release\net6.0\desafio.exe
+C:\Users\annab\PC2\calcula_refeicao\bin\Release\net6.0\desafio.deps.json
+C:\Users\annab\PC2\calcula_refeicao\bin\Release\net6.0\desafio.runtimeconfig.json
+C:\Users\annab\PC2\calcula_refeicao\bin\Release\net6.0\desafio.dll
+C:\Users\annab\PC2\calcula_refeicao\bin\Release\net6.0\desafio.pdb
+C:\Users\annab\PC2\calcula_refeicao\obj\Release\net6.0\desafio.csproj.AssemblyReference.cache
+C:\Users\annab\PC2\calcula_refeicao\obj\Release\net6.0\desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annab\PC2\calcula_refeicao\obj\Release\net6.0\desafio.AssemblyInfoInputs.cache
+C:\Users\annab\PC2\calcula_refeicao\obj\Release\net6.0\desafio.AssemblyInfo.cs
+C:\Users\annab\PC2\calcula_refeicao\obj\Release\net6.0\desafio.csproj.CoreCompileInputs.cache
+C:\Users\annab\PC2\calcula_refeicao\obj\Release\net6.0\desafio.dll
+C:\Users\annab\PC2\calcula_refeicao\obj\Release\net6.0\refint\desafio.dll
+C:\Users\annab\PC2\calcula_refeicao\obj\Release\net6.0\desafio.pdb
+C:\Users\annab\PC2\calcula_refeicao\obj\Release\net6.0\desafio.genruntimeconfig.cache
+C:\Users\annab\PC2\calcula_refeicao\obj\Release\net6.0\ref\desafio.dll

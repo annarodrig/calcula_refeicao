@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\annab\\PC2\\desafio\\desafio.csproj",
+      "projectUniqueName": "C:\\Users\\annab\\PC2\\calcula_refeicao\\desafio.csproj",
       "projectName": "desafio",
-      "projectPath": "C:\\Users\\annab\\PC2\\desafio\\desafio.csproj",
+      "projectPath": "C:\\Users\\annab\\PC2\\calcula_refeicao\\desafio.csproj",
       "packagesPath": "C:\\Users\\annab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\annab\\PC2\\desafio\\obj\\",
+      "outputPath": "C:\\Users\\annab\\PC2\\calcula_refeicao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\annab\\AppData\\Roaming\\NuGet\\NuGet.Config"
