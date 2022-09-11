@@ -69,6 +69,7 @@ catch(Exception)
 
   Console.ForegroundColor = ConsoleColor.Red;
   Console.WriteLine("Valor inválido!");
+  Console.ResetColor();
   Console.WriteLine("\nPressione uma tecla para retornar ao menu inicial");
   Console.ReadKey();
 
